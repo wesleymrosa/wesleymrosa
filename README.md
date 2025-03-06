@@ -49,7 +49,7 @@
   </a>
 
   <!-- Botão do Gmail -->
-  <a href="mailto:contato@rafaballerini.tech">
+  <a href="mailto:wesleymrosa@gmail.com">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Gmail"
