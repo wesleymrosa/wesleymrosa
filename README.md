@@ -40,8 +40,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" title="GitHub" />
   <img width="12" />
 
-  <!-- Swagger -->
-  <img src="https://skillicons.dev/icons?i=swagger" height="40" alt="Swagger logo" title="Swagger" />
+  <!-- Swagger -->   
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swagger-colored.svg" height="40" alt="Swagger logo" title="Swagger" />
+
 </div>
 
 
