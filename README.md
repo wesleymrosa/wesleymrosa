@@ -41,8 +41,9 @@
   <img width="12" />
 
   <!-- Swagger -->
-  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-2048x2048-ukm72gwb.png" height="40" alt="Swagger logo" title="Swagger" />
+  <img src="https://skillicons.dev/icons?i=swagger" height="40" alt="Swagger logo" title="Swagger" />
 </div>
+
 
 
 
