@@ -3,7 +3,7 @@
 <!-- Separador visual -->
 ###
 
-<div align="center">
+<div align="left">
   <!-- Java -->
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" title="Java" />
   <img width="12" />
@@ -45,22 +45,30 @@
 <!-- Separador visual -->
 ###
 
+<!-- Contêiner para alinhar os dois gráficos lado a lado -->
 <div align="center">
-  <!-- Estatísticas do GitHub -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=wesleymrosa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" 
-    height="150" 
-    alt="Estatísticas do GitHub"
-  />
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=wesleymrosa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" 
+          height="150" 
+          alt="Estatísticas do GitHub"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleymrosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" 
+          height="150" 
+          alt="Linguagens mais usadas"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <!-- Linguagens mais usadas -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleymrosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" 
-    height="150" 
-    alt="Linguagens mais usadas"
-  />
-
-  <!-- Gráfico de atividades -->
+<!-- Gráfico de atividades abaixo -->
+<div align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=wesleymrosa&radius=16&theme=gruvbox&area=true&order=5" 
     height="300" 
@@ -73,7 +81,7 @@
 <!-- Separador visual -->
 ###
 
-<div align="center">
+<div align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/wesley-martins-rosa-5118aa15a" target="_blank">
     <img 
