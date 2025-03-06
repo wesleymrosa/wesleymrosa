@@ -38,9 +38,12 @@
 
   <!-- GitHub -->
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" title="GitHub" />
+  <img width="12" />
+
+  <!-- Swagger -->
+  <img src="https://skillicons.dev/icons?i=swagger" height="40" alt="Swagger logo" title="Swagger" />
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="40" height="40">
 
 <h2 align="left">Stats</h2>
 
