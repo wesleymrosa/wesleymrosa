@@ -40,6 +40,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" title="GitHub" />
 </div>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="40" height="40">
+
 <h2 align="left">Stats</h2>
 
 <!-- Separador visual -->
