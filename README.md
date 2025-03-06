@@ -83,7 +83,7 @@
 
 <div align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/wesley-martins-rosa-5118aa15a" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/wesley-martins-rosa-5118aa15a" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
     <img 
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn"
@@ -92,7 +92,7 @@
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:wesleymrosa@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:wesleymrosa@gmail.com" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Gmail"
