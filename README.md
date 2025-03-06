@@ -42,7 +42,9 @@
 
   <!-- Swagger -->   
   <a href="https://swagger.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" title="Swagger" width="40" height="40">
+</a>
+
 </a>
 
 
