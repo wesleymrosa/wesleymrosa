@@ -41,7 +41,10 @@
   <img width="12" />
 
   <!-- Swagger -->   
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swagger-colored.svg" height="40" alt="Swagger logo" title="Swagger" />
+  <a href="https://swagger.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="40" height="40">
+</a>
+
 
 </div>
 
