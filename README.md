@@ -21,8 +21,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
+<h2 align="left">Java, Spring, Hibernate, Postgres, MySql, Postman, Angular, Git, Github </h2>
 
-###
 
 <h2 align="left">Stats</h2>
 
@@ -34,6 +34,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleymrosa&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+
+
+
+
 ###
 
 <h2 align="left">Social Media</h2>
@@ -41,12 +45,14 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/wesley-martins-rosa-5118aa15a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="wesleymrosa@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/wesley-martins-rosa-5118aa15a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  <a href="mailto:contato@rafaballerini.tech">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+</a>
+
 </div>
 
 ###
+
+  </a>
