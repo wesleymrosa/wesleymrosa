@@ -83,7 +83,7 @@
 
 <div align="left">
   <!-- LinkedIn -->
-  <a href="[#](https://www.linkedin.com/in/wesley-martins-rosa-5118aa15a)" onclick="window.open('https://www.linkedin.com/in/wesley-martins-rosa-5118aa15a', '_blank', 'noopener,noreferrer'); return true;">
+  <a href="https://www.linkedin.com/in/wesley-martins-rosa-5118aa15a" onclick="window.open('https://www.linkedin.com/in/wesley-martins-rosa-5118aa15a', '_blank', 'noopener,noreferrer'); return true;">
     <img 
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn"
