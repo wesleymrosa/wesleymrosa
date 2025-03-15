@@ -40,15 +40,29 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" title="GitHub" />
   <img width="12" />
 
+  <!-- Docker -->
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" title="Docker" />
+  <img width="12" />
+
+  <!-- Redis -->
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis logo" title="Redis" />
+  <img width="12" />
+
+  <!-- RabbitMQ -->
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ logo" title="RabbitMQ" width="40" height="40">
+  </a>
+  <img width="12" />
+
   <!-- Swagger -->   
   <a href="https://swagger.io/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" title="Swagger" width="40" height="40">
-</a>
-
-</a>
-
-
+  </a>
 </div>
+
+
+
+
 
 
 
